@@ -26,3 +26,33 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: io.github.ArabCrackPlus.Mejor
+Version: 384464
+Section: Tweaks
+Maintainer: ArabCrackPlus <ArabCrackPlus@gmail.com>
+Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/mejor_1.0.4.deb
+Size: 384464
+MD5sum: addb76c0fe5a45f79d52c02747e2113e
+Description: Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak). Firmware should be greater than 7.0
+Name: Mejor
+Author: Azozz ALFirasl <ArabCarckPlus@gmail.com>
+Depiction: https://arab-crack-plus-cydia.github.io/repo/depictions/?p=io.github.ArabCrackPlus.mejor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

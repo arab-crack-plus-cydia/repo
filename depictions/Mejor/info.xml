@@ -1,0 +1,24 @@
+<package>
+	<id>io.github.ArabCrackPlus.Mejor</id>
+	<name>Mejor</name>
+	<version>0.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+        <version>0.3</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
